@@ -1,0 +1,15 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <item
+        android:id="@+id/menu_ok"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#d9d9d9"
+        android:title="Confirmar"
+        app:showAsAction="always" />
+
+
+</menu>
